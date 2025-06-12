@@ -1,29 +1,22 @@
 # 👋 Hi, I'm Rishan Abebe
 
-🎓 I'm a junior at **NYU Abu Dhabi**, majoring in **Economics** with minors in **Computer Science** and **Mathematics**.  
-📊 I’m passionate about using **data science and statistical modeling** to solve complex problems and uncover actionable insights.
+ I'm a Senior at **NYU Abu Dhabi**, majoring in **Economics** with minors in **Computer Science** and **Mathematics**.  
+ I’m passionate about using **data science and statistical modeling** to solve complex problems and uncover actionable insights.
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 - Applying data analysis and machine learning to real-world challenges
 - Building tools for **real-time prediction** and **classification**
 - Exploring **fairness in AI** and ethical algorithm design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python, R, C++, SQL, Stata
 - **Tools & Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, GridSearchCV
 - **Other:** Git, LaTeX, Streamlit, Google Colab
 
----
-
-## 📈 Featured Projects
-- 🔍 **Heart Disease Prediction** – Built ML models (LogReg, KNN, RF) achieving 84% recall
-- 📚 **Library Management System (C++)** – Custom data structures and file I/O
-- 🌐 **Multilingual Dictionary (C++)** – Hash table implementation for real-time translation
-- 🧠 **Facial Expression Recognition** – Streamlit web app with Grad-CAM visualizations
 
 ---
 
