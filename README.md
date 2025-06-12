@@ -22,7 +22,7 @@
 
 ## 🌍 Let's Connect
 - 📫 Email: [rz2557@nyu.edu](mailto:rz2557@nyu.edu)
-- 💼 LinkedIn: [linkedin.com/in/rishan-abebe]([https://linkedin.com/in/rishan-abebe](https://www.linkedin.com/in/rishan-abebe-93b650266/))
+- 💼 LinkedIn: [linkedin.com/in/rishan-abebe]([https://linkedin.com/in/rishan-abebe](https://www.linkedin.com/in/rishan-abebe-93b650266/)
 - 💻 Portfolio & Projects: [GitHub Profile](https://github.com/rz2557)
 
 ---
