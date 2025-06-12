@@ -22,18 +22,13 @@
 
 ## 🌍 Let's Connect
 - 📫 Email: [rz2557@nyu.edu](mailto:rz2557@nyu.edu)
-- 💼 LinkedIn: [linkedin.com/in/rishan-abebe]([https://linkedin.com/in/rishan-abebe](https://www.linkedin.com/in/rishan-abebe-93b650266/)
+- 💼 LinkedIn: [linkedin.com/in/rishan-abebe](https://www.linkedin.com/in/rishan-abebe-93b650266/)
 - 💻 Portfolio & Projects: [GitHub Profile](https://github.com/rz2557)
 
 ---
 
 > “Turning data into insight, and insight into impact.”
-## Hi there 👋
 
-<!--
-**rz2557/rz2557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
