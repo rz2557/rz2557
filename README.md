@@ -18,6 +18,8 @@
 - **Other:** Git, LaTeX, Streamlit, Google Colab
 
 
+
+**> “Turning data into insight, and insight into impact.”**
 ---
 
 ## 🌍 Let's Connect
