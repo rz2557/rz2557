@@ -20,8 +20,9 @@
 ---
 
 ## 🌍 Let's Connect
-- 📫 Email: [rz2557@nyu.edu](mailto:rz2557@nyu.edu)
-- 💼 LinkedIn: [linkedin.com/in/rishan-abebe](https://www.linkedin.com/in/rishan-abebe-93b650266/)
+- Email: [rz2557@nyu.edu](mailto:rz2557@nyu.edu)
+- LinkedIn: [linkedin.com/in/rishan-abebe](https://www.linkedin.com/in/rishan-abebe-93b650266/)
+- Portfolio: [https://rz2557.github.io/Portfolio/](https://rz2557.github.io/Portfolio/)
 
   > “Turning data into insight, and insight into impact.”
 ---
