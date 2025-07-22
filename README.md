@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishan Abebe
 
- I'm a Senior at **NYU Abu Dhabi**, majoring in **Economics** with minors in **Computer Science** and **Mathematics**.  
+ I'm a Student at **NYU Abu Dhabi**, majoring in **Economics** with minors in **Computer Science** and **Mathematics**.  
  I’m passionate about using **data science and statistical modeling** to solve complex problems and uncover actionable insights.
 
 ---
